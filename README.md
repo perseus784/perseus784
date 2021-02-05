@@ -5,7 +5,7 @@ Working in Reinforcement Learning, Computer Vision, Deep Learning, Robotics and 
 
 Site: https://perseus784.github.io/  
 
-My blogs: https://medium.com/@ipaar3  
+Articles: https://medium.com/@ipaar3  
 
 Linkedin: https://www.linkedin.com/in/ipaar/  
 
