@@ -1,10 +1,14 @@
 ### Hi there 👋
-I am doing my master's in Robotics and Autonomous Systems (Artificial Intelligence Concentration). Worked as a Mentor for Udacity's AI Nanodegree program and as a Computer Vision Developer.
-Working in Reinforcement Learning, Computer Vision, Deep Learning, Robotics.
+I am doing my master's in Robotics and Autonomous Systems (Artificial Intelligence Concentration). Worked as a Mentor for Udacity's AI Nanodegree program and as a Computer Vision Developer. 
 
-Site: https://perseus784.github.io/
-My blogs: https://medium.com/@ipaar3
-Linkedin: https://www.linkedin.com/in/ipaar/
+Working in Reinforcement Learning, Computer Vision, Deep Learning, Robotics and Self-Driving Car related Technologies.
+
+Site: https://perseus784.github.io/  
+
+My blogs: https://medium.com/@ipaar3  
+
+Linkedin: https://www.linkedin.com/in/ipaar/  
+
 Contact: ipaar3@gmail.com / paar@asu.edu
 
 <!--
