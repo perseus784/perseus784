@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am doing my master's in Robotics and Autonomous Systems (Artificial Intelligence Concentration). Worked as a Mentor for Udacity's AI Nanodegree program and as a Computer Vision Developer. 
+I am doing my master's in Robotics and Autonomous Systems (Artificial Intelligence Concentration). Worked as a Computer Vision Engineer and Mentor for Artificial Intelligence. 
 
 Working in Reinforcement Learning, Computer Vision, Deep Learning, Robotics and Self-Driving Car related Technologies.
 
