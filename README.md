@@ -1,5 +1,4 @@
 ### Hi there 👋
-Graduate Student in Robotics and Autonomous Systems (Artificial Intelligence Concentration). Worked as a Computer Vision Engineer and Mentor for Artificial Intelligence. 
 
 Working in Computer Vision, Deep Learning, Reinforcement Learning, Robotics and Self-Driving Car related Technologies.
 
